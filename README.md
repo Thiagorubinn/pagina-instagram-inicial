@@ -1,6 +1,12 @@
-# pagina-instagram-inicial
-Página de login instagram feito com html e css
+# Página instagram inicial
 
-Feito  no VS Code para o bootcamp da dio  de Javascript.
+Página de login instagram:
 
-Nele tem a tela inicial de login do instagram .
+Feito para o bootcamp da dio de Javascript.
+
+Nele tem a tela inicial de login do instagram.
+
+USADO NESSE PROJETO:
+* VS CODE
+* HTML
+* CSS
